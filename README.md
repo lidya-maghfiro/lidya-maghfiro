@@ -20,7 +20,7 @@ Lifelong Learner, Currently Master Degree of Statistics.
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.linkedin.com/in/maulidya-maghfiro-8600/">
-  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.org/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="20px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/lidya.maghfiroh/">
   <img align="left" alt="Instagram" width="20px" src="https://simpleicons.org/icons/instagram.svg" />
